@@ -1,6 +1,7 @@
 import pygame
 import random
 import math
+import os
 
 pygame.init()
 
@@ -11,7 +12,7 @@ ASTEROID_SIZE = 25
 COLLECTIBLE_SIZE = 10
 BACKGROUND_COLOR = (50, 100, 100)
 HEALTH_SIZE = (100, 30)
-BASE_PATH = 'Assets/'
+BASE_PATH = os.path.join(os.getcwd(), 'Assets/')
 BEST_SCORE = 0
 ANGLE_SPEED = 6
 THRUST = 0.3
