@@ -2,6 +2,11 @@
 
 Welcome to Void Voyager, an exhilarating space adventure where you take on the role of an intrepid space explorer aboard a state-of-the-art spaceship. Your mission is to navigate through the vast reaches of space, avoiding obstacles, collecting valuable resources, and surviving the perils of the cosmos.
 
+## Gameplay Video
+![Gameplay](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl3OXV5MDRwZ2Z2ZHFhc2NmcDRna3N2OGJseXdsNDhrbnlkMHg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ugLgfq19PMZsRzfEMn/giphy.gif)
+
+
+
 ## Objective
 
 Your primary goal is to collect the precious Cosmic Crystals, shining yellow beacons scattered throughout space. These crystals are vital for advancing your journey and scoring points.
@@ -35,12 +40,7 @@ Your mission comes to an end if your spaceship's health reaches zero. However, i
 3. Clone this repository.
 4. Run the game using `python void_voyager.py`.
 
-## Screenshots
 
-Include captivating screenshots showcasing the space environment, your spaceship, Cosmic Crystals, Asteroid Belts, Galactic Repairs, and the Black Hole.
 
-## Gameplay Video
-
-Provide a link to a video that captures the excitement of Void Voyager in action.
 
 Feel the thrill of interstellar exploration, dodge the asteroids, and claim the Cosmic Crystals in Void Voyager! May your journey through the cosmos be daring and unforgettable.
