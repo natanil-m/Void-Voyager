@@ -30,9 +30,10 @@ Your mission comes to an end if your spaceship's health reaches zero. However, i
 
 ## How to Play
 
-1. Download and install Python and Pygame on your system.
-2. Clone this repository using `git clone <repository-url>`.
-3. Run the game using `python void_voyager.py`.
+1. Download and install python.
+2. Install and pygame library using `pip install pygame`.
+3. Clone this repository.
+4. Run the game using `python void_voyager.py`.
 
 ## Screenshots
 
