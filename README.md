@@ -35,12 +35,9 @@ Your mission comes to an end if your spaceship's health reaches zero. However, i
 3. Clone this repository.
 4. Run the game using `python void_voyager.py`.
 
-## Screenshots
-
-Include captivating screenshots showcasing the space environment, your spaceship, Cosmic Crystals, Asteroid Belts, Galactic Repairs, and the Black Hole.
-
 ## Gameplay Video
 
-Provide a link to a video that captures the excitement of Void Voyager in action.
+![Gameplay Video](https://github.com/natanil-m/void_voyager/blob/main/gameplay.mp4)
+
 
 Feel the thrill of interstellar exploration, dodge the asteroids, and claim the Cosmic Crystals in Void Voyager! May your journey through the cosmos be daring and unforgettable.
