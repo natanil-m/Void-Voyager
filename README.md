@@ -33,7 +33,7 @@ Your mission comes to an end if your spaceship's health reaches zero. However, i
 - Press the SPACEBAR to activate your spaceship's thrusters for a burst of speed.
 - Should you find yourself in dire straits, use the Galactic Repairs wisely to restore your health.
 
-## How to Play
+## How to Install
 
 1. Download and install python.
 2. Install and pygame library using `pip install pygame`.
